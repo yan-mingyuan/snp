@@ -1,6 +1,9 @@
 # Ignore data folder
 data/
 
+# Ignore WandB logs and files
+wandb/
+
 # Ignore Python cache files
 __pycache__/
 
